@@ -6,7 +6,7 @@
 Welcome to Ethical Hacking wiki!
 ================================================
 
-Does this work?
+These changes aren't been displayed anywhere and it is starting to be a tad annoying.
 
 .. toctree::
    :maxdepth: 3
